@@ -50,6 +50,7 @@ a
     width: 940px;
     margin: 0 auto;
     padding: 0 10px;
+
 }
 .orange
 {
@@ -70,6 +71,7 @@ small
 header 
 {
     height: 120px;   
+
 }
 header h1
 {
@@ -91,13 +93,14 @@ header nav ul li a
     text-transform: uppercase;
     font-weight: bold;
     margin-right: 20px;
+
 }
 
 /* MAIN IMAGE */
 
 #main-image
 {
-    height: 580px;
+    height: 660px;
     background: url('images/patras.jpg') center;
 }
 #main-image h2
@@ -107,6 +110,7 @@ header nav ul li a
     text-align: center;
     padding: 150px 0 40px 0;
     margin-bottom: 20px;
+    color: white;
 }
 
 /* STEPS */
